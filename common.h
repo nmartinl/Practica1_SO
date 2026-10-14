@@ -30,6 +30,7 @@
 #define SEM_ACK  "/sem_spotify_ack"
 
 #define MAX_STR 256
+#define MAX_LINE 2048
 #define CSV_PATH "track_metadata.csv"
 
 /**
