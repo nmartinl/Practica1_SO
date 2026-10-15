@@ -2,10 +2,10 @@
 **Universidad Nacional de Colombia - Ingeniería de Sistemas**
 **Asignatura:** Sistemas Operativos
 **Integrantes** 
-Luis Bustos
-Antonio Garay
-Nicolas Martín
-Jhon Rdoriguez
+- Luis Bustos
+- Antonio Garay
+- Nicolas Martín
+- Jhon Rdoriguez
 
 ---
 
