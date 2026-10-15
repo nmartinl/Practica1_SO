@@ -5,7 +5,7 @@
 - Luis Bustos
 - Antonio Garay
 - Nicolas Martín
-- Jhon Rdoriguez
+- Jhon Rodriguez
 
 ---
 
